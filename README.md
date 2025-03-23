@@ -4,6 +4,7 @@
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 **Funktioner:**
+
 ox_target integration: Interaktion med skraldespande via ox_target.
 
 config.lua: Mulighed for at ændre på props, og rewards.
