@@ -13,7 +13,7 @@ AddEventHandler('vandaben_reward', function()
         TriggerClientEvent('esx:showNotification', src, "Du fandt " .. reward.amount .. "x " .. reward.item)
         local data = {
             ['Player'] = GetPlayerName(src),
-            ['https://discord.com/api/webhooks/1353318743639457882/61RiqbBjv6h5YP_d8b_yobskBQg3T5UNX3NocedCJLdY7t7rbLaQGoepX1qK3rcbEaGI'] = 'trash_search',
+            ['Log'] = 'trash_search',
             ['Title'] = 'Trash Search Reward',
             ['Message'] = 'Player ' .. GetPlayerName(src) .. ' found ' .. reward.amount .. 'x ' .. reward.item,
         }
