@@ -16,6 +16,7 @@ Boost logs: Logning af alle relevante handlinger for at holde styr på aktivitet
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 **Installation:**
+
 Download og placer scriptet i din server.
 
 Skriv "ensure vandaben_trashsearh" i din server.cfg
